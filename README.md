@@ -22,15 +22,13 @@ On this GitHub profile, I will upload my analyst-related projects including dash
 - Pivot Tables
 - Dashboard Design
 - Business Insights
+## My Projects
 
-## Projects I Will Upload Here
-
-- Excel Dashboards
-- Sales Analysis Projects
-- SQL Query Projects
-- Power BI Reports
-- Data Visualization Projects
-- Business Analytics Case Studies
+| Project | Tool | Dataset | Link |
+|---|---|---|---|
+| Hacker News SQL Analysis | SQL + BigQuery | Hacker News (Google BigQuery) | [View Project](https://github.com/yushh-theanalyst/hacker-news-sql-analysis) |
+| Global Sales Dashboard | Excel | Global Sales Dataset | [View Project](https://github.com/yushh-theanalyst/global-sales-excel-dashboard) |
+| Movies Dashboard | Excel | Rotten Tomatoes Dataset | [View Project](https://github.com/yushh-theanalyst/excel-movie-dashboard) |
 
 ## Goal
 
