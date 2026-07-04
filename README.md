@@ -24,11 +24,12 @@ On this GitHub profile, I will upload my analyst-related projects including dash
 - Business Insights
 ## My Projects
 
-| Project | Tool | Dataset | Link |
-|---|---|---|---|
-| Hacker News SQL Analysis | SQL + BigQuery | Hacker News (Google BigQuery) | [View Project](https://github.com/yushh-theanalyst/hacker-news-sql-analysis) |
-| Global Sales Dashboard | Excel | Global Sales Dataset | [View Project](https://github.com/yushh-theanalyst/global-sales-excel-dashboard) |
-| Movies Dashboard | Excel | Rotten Tomatoes Dataset | [View Project](https://github.com/yushh-theanalyst/excel-movie-dashboard) |
+| Project | Tool | Link |
+|---|---|---|
+| Hacker News SQL Analysis | SQL + BigQuery | [View Project](https://github.com/yushh-theanalyst/hacker-news-sql-analysis) |
+| Global Sales Dashboard | Excel | [View Project](https://github.com/yushh-theanalyst/global-sales-excel-dashboard) |
+| Movies Dashboard | Excel | [View Project](https://github.com/yushh-theanalyst/excel-movie-dashboard) |
+| Pizza Sales Python Analysis | Python + Pandas | [View Project](https://github.com/yushh-theanalyst/pizza-sales-python-analysis) |
 
 ## Goal
 
