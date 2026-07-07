@@ -26,10 +26,11 @@ On this GitHub profile, I will upload my analyst-related projects including dash
 
 | Project | Tool | Link |
 |---|---|---|
-| Hacker News SQL Analysis | SQL + BigQuery | [View Project](https://github.com/yushh-theanalyst/hacker-news-sql-analysis) |
-| Global Sales Dashboard | Excel | [View Project](https://github.com/yushh-theanalyst/global-sales-excel-dashboard) |
-| Movies Dashboard | Excel | [View Project](https://github.com/yushh-theanalyst/excel-movie-dashboard) |
-| Pizza Sales Python Analysis | Python + Pandas | [View Project](https://github.com/yushh-theanalyst/pizza-sales-python-analysis) |
+| Historical Weather Analytics Dashboard | Power BI + SQLite | [View Project](PASTE_WEATHER_PROJECT_LINK_HERE) |
+| Hacker News SQL Analysis | SQL + BigQuery | [View Project](PASTE_LINK_HERE) |
+| Global Sales Dashboard | Excel | [View Project](PASTE_LINK_HERE) |
+| Movies Dashboard | Excel | [View Project](PASTE_LINK_HERE) |
+| Pizza Sales Python Analysis | Python + Pandas | [View Project](PASTE_LINK_HERE) |
 
 ## Goal
 
