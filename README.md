@@ -26,7 +26,7 @@ On this GitHub profile, I will upload my analyst-related projects including dash
 
 | Project | Tool | Link |
 |---|---|---|
-| Stocksense India  |Excel+Python(Numpy,Pandas,Plotly)| [View Project](https://github.com/yushh-theanalyst/Stocksense-india) |
+| Stocksense India  |Excel+Python(Numpy,Pandas,Plotly),Streamlit, ML(Scikit-learn, Linear & Logistic regression ,Desicion tree,Random forest,XGBoost)| [View Project](https://github.com/yushh-theanalyst/Stocksense-india) |
 | Weather analysis | Power BI + SQLite | [View Project](https://github.com/yushh-theanalyst/the-capstone-project-weather-analytics) |
 | Hacker News SQL Analysis | SQL + BigQuery | [View Project](https://github.com/yushh-theanalyst/hacker-news-sql-analysis) |
 | Global Sales Dashboard | Excel | [View Project](https://github.com/yushh-theanalyst/global-sales-excel-dashboard) |
